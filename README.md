@@ -78,13 +78,13 @@
 
 <!---Most Used Languages--->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-abrahao&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="lucas-abrahao" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-abrahao&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="lucas-abrahao" />
 </p>
 <!---GitHub Stats--->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-abrahao&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="lucas-abrahao" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=l-abrahao&show_icons=true&locale=en&bg_color=191919&text_color=0dfc91&border_color=0dfc91&title_color=0dfc91" alt="lucas-abrahao" />
 </p>
 <!---Streak Stats--->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-abrahao&background=191919&stroke=2e3d36&border=0dfc91&ring=0dfc91&fire=0dfc91&currStreakNum=039151&dates=039151&sideNums=039151&sideLabels=0dfc91&currStreakLabel=0dfc91" alt="lucas-abrahao" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-abrahao&background=191919&stroke=2e3d36&border=0dfc91&ring=0dfc91&fire=0dfc91&currStreakNum=039151&dates=039151&sideNums=039151&sideLabels=0dfc91&currStreakLabel=0dfc91" alt="lucas-abrahao" />
 </p>
